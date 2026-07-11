@@ -13,7 +13,6 @@ BSIT-2A
 
 - Haram Arfan
 - Shagufta
-- (Third member if any)
 
 ## Repository Structure
 
