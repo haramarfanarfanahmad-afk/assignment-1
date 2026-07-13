@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int amount;
+
+    cout << "Enter Recharge Amount: ";
+    cin >> amount;
+
+    if(amount >= 100)
+    {
+        cout << "Recharge Amount Accepted";
+    }
+
+    return 0;
+}
