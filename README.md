@@ -1,13 +1,13 @@
 # Control Structures Assignment
 
 ## Course Title
-Programming Fundamentals
+computer programming
 
 ## Section
-BSIT-2A
+BSIT-1A
 
 ## Instructor
-(Write your instructor's name)
+miss Mehreen Tariq
 
 ## Group Members
 
